@@ -66,3 +66,5 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+[LiveShare](https://prod.liveshare.vsengsaas.visualstudio.com/join?5B06097417A551D066D471141D941265DBC6)
